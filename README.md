@@ -19,3 +19,9 @@ the web page has two pages, the first one where the list of items is displayed a
     "express-static": "^1.2.6"
   }
 ```
+
+```
+npm i express express-static
+npm i -D typescript @types/express @types/node
+npm i -D concurrently nodemon
+```
